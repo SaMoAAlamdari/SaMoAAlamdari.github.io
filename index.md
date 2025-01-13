@@ -28,7 +28,7 @@ A project that leverages Python to analyze stock market trends, perform technica
 
 ## Contact
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/samoa-alamdari-341960346/) and via email at [samoa.alamdari@gmail.com] for any collaboration opportunities or inquiries.
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/samoa-alamdari-341960346/) and via email at [samoa.alamdari@gmail.com](mailto:samoa.alamdari@gmail.com) for any collaboration opportunities or inquiries.
 
 Thank you for visiting!
 
