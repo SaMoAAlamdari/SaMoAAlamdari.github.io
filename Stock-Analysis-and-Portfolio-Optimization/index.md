@@ -3,7 +3,7 @@ layout: default
 title: Stock-Analysis-and-Portfolio-Optimization
 ---
 # Stock-Analysis-and-Portfolio-Optimization
-Welcome to the page Stock-Analysis-and-Portfolio-Optimization! [Link to Stock-Analysis-and-Portfolio-Optimization](https://github.com/SaMoAAlamdari/Stock-Analysis-and-Portfolio-Optimization)
+Welcome to the page Stock-Analysis-and-Portfolio-Optimization! [Link to Stock-Analysis-and-Portfolio-Optimization github page](https://github.com/SaMoAAlamdari/Stock-Analysis-and-Portfolio-Optimization)
 
 ## Description
 This project provides tools for downloading historical stock data, visualizing trends, calculating statistics, and performing portfolio optimization using the Sharpe Ratio.
