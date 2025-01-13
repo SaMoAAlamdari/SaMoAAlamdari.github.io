@@ -3,7 +3,7 @@ layout: default
 title: Price-Optimizing
 ---
 
-Welcome to the page for Price-Optimizing! [Link to Price-Optimizing](https://github.com/SaMoAAlamdari/Price-Optimizing)
+Welcome to the page for Price-Optimizing! [Link to Price-Optimizing github page](https://github.com/SaMoAAlamdari/Price-Optimizing)
 
 # Retail Sales Analysis and Dynamic Pricing Model
 
