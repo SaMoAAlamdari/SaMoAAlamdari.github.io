@@ -11,7 +11,7 @@ Hello! I'm a passionate Data Scientist and Programmer with a keen interest in fi
 
 ## Areas of Expertise
 
-- **Data Science**: Expertise in data preprocessing, exploration, and visualization using Python, R, and SQL.
+- **Data Science**: Expertise in data preprocessing, exploration, and visualization using Python.
 - **Financial Analysis**: Proficient in analyzing and modeling financial data to identify trends, correlations, and patterns.
 - **Machine Learning**: Experience in developing and deploying predictive models for various financial applications.
 - **Programming**: Skilled in writing clean, efficient code and developing robust algorithms.
